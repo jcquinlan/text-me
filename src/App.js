@@ -12,6 +12,7 @@ const texts = [
   'do you want to facetime tonight?',
   'you were right, Bummer is awesome and spiders are actually really nice',
   'wanna go to Europe together?',
+  'I\'m just hanging outside alone in the dark because that\'s a normal thing to do, wbu?',
 ];
 
 function App() {
